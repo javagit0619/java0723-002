@@ -27,5 +27,8 @@ public class MobileSearch {
 		return "result";
 		
 	}
+	public void find(){
+		System.out.println("小白新增方法");
+	}
 	
 }
